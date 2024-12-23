@@ -1,0 +1,18 @@
+.body{
+    background-image: url(ft3.avif);
+    background-size: cover;
+}
+.h1{
+    color: black;
+    text-decoration: none ;
+    text-shadow:2px 2px 5px ;
+    text-align: center;
+    font-family:Arial, sans-serif;
+}
+.h2{
+    color: black;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px;
+    text-align: start;
+    font-family: Arial,sans-serif;
+}

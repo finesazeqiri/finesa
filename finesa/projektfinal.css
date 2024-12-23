@@ -1,0 +1,18 @@
+.body{
+    background-image: url(foto6.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: rgb(14, 10, 13);
+    text-align: center;
+    margin: 0px;
+}
+.all{
+    width: 80%;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px auto;
+}
+.h1{
+    font-family: cursive;
+}
